@@ -1,0 +1,2 @@
+dataset,accuracy,response_failure,prompt_truncation
+SATACT_InfoAlterationSent_test,0.30303030303030304,0.0,0.01893939393939394
