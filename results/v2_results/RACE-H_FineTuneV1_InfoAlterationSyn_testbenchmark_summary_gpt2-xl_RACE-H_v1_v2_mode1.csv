@@ -1,0 +1,2 @@
+dataset,accuracy,response_failure,prompt_truncation
+RACE-H_FineTuneV1_InfoAlterationSyn_test,0.24899942824471127,0.0,0.010005717552887363

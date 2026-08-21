@@ -1,0 +1,2 @@
+dataset,accuracy,response_failure,prompt_truncation
+SATACT_FineTuneV1_InfoAlterationSent_test,0.5,0.0,0.01893939393939394
